@@ -1,10 +1,9 @@
-![](https://komarev.com/ghpvc/?username=Prathamesh-tech-eng&style=plastic&color=blue&base=30)
 
 <h1 align="center">Hey there! 👋 I'm Prathamesh Chikkali</h1>
 <h3 align="center">🎓 Engineering Student | Aspiring AI/ML Engineer | Web & Python Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=Prathamesh-tech-eng&label=Profile%20views&color=0e75b6&style=plastic" alt="profile-views" />
 </p>
 
 ---
@@ -12,7 +11,7 @@
 🌱 **Currently Learning**: DSA and building real-world projects with React.  
 💻 **Tech Focus**: Python, Java, C, and Web Development.  
 💬 **Ask Me About**: Problem-solving, AI basics, and building with React or Django.  
-📫 **Reach Out**: [chikkaliprathamesh3@gmail.com](mailto:YourEmail@example.com)  
+📫 **Reach Out**: [chikkaliprathamesh3@gmail.com](mailto:chikkaliprathamesh3@gmail.com)  
 🚀 **Always Curious**: Exploring opportunities in open source and software engineering.
 
 ---
@@ -47,8 +46,8 @@
 ---
 
 ### 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&theme=tokyonight&layout=compact&hide_border=false)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-tech-eng&theme=tokyonight&layout=compact&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prathamesh-tech-eng&show_icons=true&theme=tokyonight&hide_border=false)
 
 ---
 
